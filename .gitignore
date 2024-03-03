@@ -1,0 +1,15 @@
+
+
+!/dist/assets/*
+!/dist/.htaccess
+!/dist/_redirects
+index.html
+node_modules/*
+public/*
+src/*
+
+package-lock.json
+package.json
+static.json
+vite.config.js
+!/dist/index.html
